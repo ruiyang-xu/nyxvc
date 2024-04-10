@@ -1,5 +1,5 @@
 # You may need to change this line for your real project.
-baseURL: /
+baseURL: https://nyxventures.vc/
 
 languageCode: en-us
 defaultContentLanguage: en
@@ -10,7 +10,7 @@ defaultContentLanguage: en
 #
 # NB: Final title of shareable pages will be this plus the
 #     title of the page. Eg. "Contacts - Ed."
-title: Ed.
+title: NYX Ventures
 
 enableRobotsTXT: true
 
@@ -134,11 +134,11 @@ sitemap:
   priority: 0.5
 
 author:
-  name: John Doe
-  email: john@example.com
-  github: john_doe
-  twitter: john_doe
-  location: 'Kyiv, Ukraine'
+  name: NYX Ventures
+  email: research@nyxvc.com
+  github: 
+  twitter: 
+  location: 
 
 # For more see https://gohugo.io/getting-started/configuration-markup/
 markup:
