@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.transition-all {
+    transition: all 0.3s ease-in-out;
+}
+html, body {
+  overscroll-behavior-y: none;
+}
+
